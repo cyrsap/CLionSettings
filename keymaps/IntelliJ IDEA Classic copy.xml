@@ -1,0 +1,10 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="$default">
+  <action id="Clean">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+</keymap>
