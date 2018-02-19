@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'nadir'" />
-    <option name="defaultScopeName" value="Project 'nadir'" />
+    <option name="customScope" value="Directory '.../src [nadir]'" />
+    <option name="defaultScopeName" value="Directory '.../src [nadir]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'nadir'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src [nadir]'" />
     <option name="FILE_MASK" value="*.cpp, *.h" />
     <recentFileMasks>
       <mask>*.properties</mask>
