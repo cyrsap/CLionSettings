@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="settings_convert_raw_iib_to_text.ini" type="Ini" />
+      <mapping pattern="conan_boost_to_arm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
