@@ -3,22 +3,8 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="project_src" />
     <option name="defaultScopeName" value="project_src" />
-    <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="project_src" />
     <option name="FILE_MASK" value="*.cpp, *.h" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.cpp, *.h</mask>
-    </recentFileMasks>
   </component>
 </application>
