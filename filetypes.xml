@@ -3,6 +3,10 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="settings_convert_raw_iib_to_text.ini" type="Ini" />
+      <mapping pattern=".clazyheaderignore" type="PLAIN_TEXT" />
+      <mapping pattern=".lint-ignore" type="PLAIN_TEXT" />
+      <mapping pattern=".lintignore" type="PLAIN_TEXT" />
+      <mapping pattern=".clazy" type="PLAIN_TEXT" />
       <mapping pattern="conan_boost_to_arm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
