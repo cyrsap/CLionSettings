@@ -4,9 +4,6 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="tabs.alphabetical" value="true" />
-    <entry key="cidr.debugger.value.numberFormatting.hex" value="true" />
-    <entry key="search.everywhere.configurations" value="false" />
-    <entry key="ide.tooltip.initialDelay" value="0" />
+    <entry key="suppress.focus.stealing" value="false" />
   </component>
 </application>
